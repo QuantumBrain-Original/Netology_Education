@@ -1,2 +1,1 @@
-# Netology_Education
-Netology Education
+# Netology Education C++
